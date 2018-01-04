@@ -1,0 +1,55 @@
+a, a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+nav{
+    padding-top: 2px !important;
+    background-color: transparent;
+}
+
+#navbarNav > ul > li {
+    margin-right: 6px;
+}
+
+.nopadding{
+    padding: 0 !important;
+}
+
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: white
+}
+
+
+
+#social{
+    float: left;
+    clear: both;
+    margin-left: 3px;    
+}
+footer{
+    margin-top: 10px;
+}
+
+span{
+    color:white;
+}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 7px;
+  }
+  
+  #myBtn:hover {
+    background-color: #555;
+  }

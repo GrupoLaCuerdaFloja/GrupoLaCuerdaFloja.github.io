@@ -1,0 +1,18 @@
+#content{
+    width: 800px;
+    margin: auto;
+    color: white;
+    margin-top: 40px;
+    
+}
+
+h3{
+    font-weight: 300;
+    font-size: 32px;
+}
+
+iframe{
+    margin-bottom: 16px;
+    max-width: 500px;
+    max-height: 500px;
+}

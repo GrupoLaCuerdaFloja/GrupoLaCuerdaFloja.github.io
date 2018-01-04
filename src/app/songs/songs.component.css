@@ -1,0 +1,17 @@
+#content{
+    width: 800px;
+    margin: auto;
+    color: white;
+    margin-top: 40px;
+    
+}
+
+h3{
+    font-weight: 300;
+    font-size: 32px;
+}
+
+li{
+    list-style: none;
+    margin-bottom: 16px;
+}

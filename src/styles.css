@@ -1,0 +1,56 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+body{
+    background: black;
+    font-family: helvetica;
+}
+
+.mat-tab-label, .mat-tab-link{
+    color: white;
+    background-color: transparent;
+}
+.mat-tab-group.mat-primary .mat-ink-bar{
+    background-color: black;
+}
+
+.mat-tab-group.mat-primary .mat-tab-label:focus{
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.mat-tab-label-active{
+    font-size: 20px;
+    background-color: transparent;
+}
+
+.mat-tab-header-pagination{
+    background: white;
+}
+.mat-tab-header-pagination-disabled{
+    background: black;
+}
+
+/* COPIAR AL OTRO LADO */
+/* a, a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+nav{
+    padding-top: 2px !important;
+    background-color: transparent;
+}
+
+#navbarNav > ul > li {
+    margin-right: 6px;
+}
+
+.nopadding{
+    padding: 0 !important;
+}
+
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: white
+} */

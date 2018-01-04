@@ -1,0 +1,25 @@
+#content{
+    width: 800px;
+    color: white;
+    margin: auto;
+    margin-top: 40px;
+}
+h3{
+    font-weight: 300;
+    font-size: 32px;
+}
+
+p{
+    margin: 0px;
+    font-size: 12px;
+}
+
+  
+.demo-tab-content {
+    padding: 16px;
+    color: white;
+}
+
+.letter {
+    margin-top: 10px;
+}
